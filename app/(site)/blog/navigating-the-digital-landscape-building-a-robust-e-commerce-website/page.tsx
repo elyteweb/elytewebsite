@@ -75,9 +75,7 @@ const SingleBlogPage = async () => {
                   <li className="mb-3 transition-all duration-300 last:mb-0 hover:text-primary">
                     <a href="#">News</a>
                   </li>
-                  <li className="mb-3 transition-all duration-300 last:mb-0 hover:text-primary">
-                    <a href="#">Rounded</a>
-                  </li>
+                 
                 </ul>
               </div>
 
