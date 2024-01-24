@@ -140,7 +140,7 @@ const About = () => {
               Embarking on the journey to expand your website's reach requires a multi-faceted approach. By combining SEO tactics, compelling content creation, social media engagement, strategic partnerships, paid advertising, mobile optimization, email marketing, and analytics, you'll unlock the full potential of your online presence. Stay agile, stay innovative, and watch your website reach new heights in the digital landscape.
               </p>
               <div>
-                <a
+                <a 
                   href="#"
                   className="group mt-7.5 inline-flex items-center gap-2.5 text-black hover:text-primary dark:text-white dark:hover:text-primary"
                 >
