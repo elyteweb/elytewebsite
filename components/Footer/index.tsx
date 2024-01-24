@@ -83,7 +83,7 @@ const Footer = () => {
                   <h4 className="mb-9 text-itemtitle2 font-medium text-black dark:text-white">
                     Quick Links
                   </h4>
-               <h1>hijkljlkjl</h1>
+               <h1>hijkl</h1>
                   <ul>
                     <li>
                       <a
